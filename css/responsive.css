@@ -1,0 +1,299 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .main-image img {
+        width: 45%;
+    }
+        .header-content p {
+        width: 75%;
+    }
+        .header-content h4 {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+        .header-content h2 {
+        margin-top: 5px;
+        font-size: 25px;
+    }
+        .header-content h1 {
+        font-size: 25px;
+    }
+        .img-fluid {
+        max-width: 45%;
+    }
+        #middel-part {
+        background-size: 75px;
+    }
+        .middel-content h2 {
+        margin-top: 15px;
+        font-size: 25px;
+    }
+        .middel-content h4 {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+        .middel-content p {
+        margin-top: 5px;
+        width: 80%;
+    }
+        
+        #middel-part {
+        background-size: 40px;
+    }
+        .last-header h2 {
+        margin-top: 0px;
+        font-size: 20px;
+    }
+        .left-content h2 {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+        .left-content h4 {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+        .left-content p {
+        margin-top: 10px;
+        width: 80%;
+    } 
+        .right-content h2 {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+        .right-content h4 {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+        .right-content p {
+        margin-top: 10px;
+        width: 80%;
+    }
+        #last-aria {
+        background-size: 40px;
+    }
+        #middel-part {
+        padding: 0;
+    }
+        .main-image img {
+        margin-top: -5px;
+    }
+        #last-aria {
+        padding-left: 50px;
+    }
+        #middel-part {
+        padding-left: 50px;
+    }
+        #header-aria{
+          padding-left: 50px;  
+        }
+    }
+    
+    /*Small devices (landscape phones, 576px and up)*/
+    @media (min-width: 576px) and (max-width: 767.98px) { 
+    
+    .main-image img {
+        width: 45%;
+    }
+        .header-content p {
+        width: 75%;
+    }
+        .header-content h4 {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+        .header-content h2 {
+        margin-top: 5px;
+        font-size: 25px;
+    }
+        .header-content h1 {
+        font-size: 25px;
+    }
+        .img-fluid {
+        max-width: 45%;
+    }
+        #middel-part {
+        background-size: 75px;
+    }
+        .middel-content h2 {
+        margin-top: 15px;
+        font-size: 25px;
+    }
+        .middel-content h4 {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+        .middel-content p {
+        margin-top: 5px;
+        width: 80%;
+    }
+        
+        #middel-part {
+        background-size: 40px;
+    }
+        .last-header h2 {
+        margin-top: 0px;
+        font-size: 20px;
+    }
+        .left-content h2 {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+        .left-content h4 {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+        .left-content p {
+        margin-top: 10px;
+        width: 80%;
+    } 
+        .right-content h2 {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+        .right-content h4 {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+        .right-content p {
+        margin-top: 10px;
+        width: 80%;
+    }
+        #last-aria {
+        background-size: 40px;
+    }
+        #middel-part {
+        padding: 0;
+    }
+        .main-image img {
+        margin-top: -5px;
+    }
+           #last-aria {
+        padding-left: 50px;
+    }
+        #middel-part {
+        padding-left: 50px;
+    }
+    }
+    
+    /* Medium devices (tablets, 768px and up)*/
+    @media (min-width: 768px) and (max-width: 991.98px) { 
+    .main-image img {
+        width: 45%;
+    }
+        .header-content p {
+        width: 75%;
+    }
+        .header-content h4 {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+        .header-content h2 {
+        margin-top: 5px;
+        font-size: 25px;
+    }
+        .header-content h1 {
+        font-size: 25px;
+    }
+        .img-fluid {
+        max-width: 45%;
+    }
+        #middel-part {
+        background-size: 75px;
+    }
+        .middel-content h2 {
+        margin-top: 15px;
+        font-size: 25px;
+    }
+        .middel-content h4 {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+        .middel-content p {
+        margin-top: 5px;
+        width: 80%;
+    }
+        
+        #middel-part {
+        background-size: 40px;
+    }
+        .last-header h2 {
+        margin-top: 0px;
+        font-size: 20px;
+    }
+        .left-content h2 {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+        .left-content h4 {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+        .left-content p {
+        margin-top: 10px;
+        width: 80%;
+    } 
+        .right-content h2 {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+        .right-content h4 {
+        margin-top: 5px;
+        font-size: 10px;
+    }
+        .right-content p {
+        margin-top: 10px;
+        width: 80%;
+    }
+        #last-aria {
+        background-size: 40px;
+    }
+        #middel-part {
+        padding: 0;
+    }
+    }
+    
+    /* Large devices (desktops, 992px and up)*/
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+    #last-aria {
+        background-size: 50px;
+    }
+        .header-content {
+        padding-left: 60px;
+    }
+        .header-content p {
+        width:100% ;
+    }
+        .middel-content p {
+        width: 85%;
+    }
+        #middel-part {
+        background-size: 50px;
+    }
+        #last-aria {
+        background-size: 50px;
+        padding-left: 30px;
+    }
+        #last-aria {
+        background-size: 35px;
+    }
+        img {
+        padding-top: 25px;
+    }
+        .main-image img {
+        margin-top: 10px;
+    }
+    }
+    
+    /* Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1200px) { 
+    
+    .middel-content p {
+        width: 90%;
+    }
+        
+        #last-aria {
+        background-size: 40px;
+    }
+        #middel-part {
+        background-size: 50px;
+    }
+    }
